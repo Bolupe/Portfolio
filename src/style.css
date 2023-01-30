@@ -4,7 +4,9 @@ body, h1,h2,h3,h4,h5,h6 {
 .w3-row-padding img {
     margin-bottom: 12px
 }
-
+a{
+    text-decoration: none;
+}
 .w3-sidebar {
     width: 120px;
     background: #222;
